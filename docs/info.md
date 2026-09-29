@@ -9,11 +9,15 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The protocol emulator executes programmable instructions
+to control and sample digital I/O pins. It is intended
+to support protocols such as UART, SPI and I2C.
 
 ## How to test
 
-Explain how to use your project
+The design can be tested using the project's testbench.
+Tests verify the behavior of the protocol emulator and
+its interaction with the configured I/O pins.
 
 ## External hardware
 
